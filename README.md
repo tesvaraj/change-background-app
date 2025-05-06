@@ -4,7 +4,7 @@ Submitted by: **Tesvara Jiang**
 
 **Change Background Color App** is an app that... changes the background of the screen
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
