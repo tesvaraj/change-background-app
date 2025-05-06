@@ -1,6 +1,6 @@
-# Prework - *Name of App Here*
+# Prework - *Change Background Color App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tesvara Jiang**
 
 **Change Background Color App** is an app that... changes the background of the screen
 
